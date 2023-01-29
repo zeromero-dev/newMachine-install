@@ -7,7 +7,8 @@
 - MpHC
 - Steam
 - Adobe Photoshop
-- Davinchi Resolve
+- Davinchi Resolve 
+
 **Ubuntu/Debian**: `sudo apt install obsidian discord vscode spotify steam davinci-resolve`
 ## Dev tools and dependecies install
 - [`pnpm/npm`](https://pnpm.io/installation)
