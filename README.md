@@ -8,6 +8,7 @@
 - Steam
 - Adobe Photoshop
 - Davinchi Resolve
+**Ubuntu/Debian**: `sudo apt install obsidian discord vscode spotify steam davinci-resolve`
 ## Dev tools and dependecies install
 - [`pnpm/npm`](https://pnpm.io/installation)
 - Typescript: `pnpm install typescript -g`
